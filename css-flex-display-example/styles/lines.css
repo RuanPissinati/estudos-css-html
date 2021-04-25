@@ -1,0 +1,48 @@
+.logo-img-box,
+.logo-img,
+.menu-list,
+.menu-list-item,
+.menu-redes-list-item,
+.menu-redes-list,
+.menu-redes-list-item-link,
+.menu-redes-list .item-search-a-img,
+.item-search,
+.item-search-link-img,
+.item-search-link,
+.item-search
+{
+  border: 1px solid;
+}
+
+.section {
+  border: 1px solid purple;
+}
+.container {
+  border: 1px solid green;
+}
+.container-full {
+  border: 1px solid blue;
+}
+.row {
+  border: 1px solid red;
+}
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.div-col,
+.div-col-1,
+.div-col-2,
+.div-col-3,
+.div-col-4,
+.div-col-5,
+.div-col-6 {
+  border: 1px solid green;
+}
